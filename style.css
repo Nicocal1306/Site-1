@@ -5,3 +5,8 @@ body {
 .cabecalho-imagem {
         width: 20%;
 }
+.cabecalho {
+    background-color: white;
+    color: white;
+    display: flex;
+}
